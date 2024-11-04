@@ -10,7 +10,7 @@
 - [Diacussion Group](https://t.me/TanvirBuildsSupport)
 
 ## Device picture
-![Redmi Note 11](https://i01.appmifile.com/webfile/globalimg/xm_event/jp/5dcef8e4f221e663f6c414c40d67bdf6.png?thumb=1&w=1044&h=696&width=1044&height=710)
+![Redmi Note 11](https://raw.githubusercontent.com/EvolutionX-spes/.github/master/assets/[2]-xiaomi-redmi-note-11-mockup.png)
 
 ## Device Configuration for Xiaomi Redmi Note 11
 
