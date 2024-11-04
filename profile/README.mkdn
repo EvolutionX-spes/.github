@@ -1,0 +1,38 @@
+## How to use?
+<b>Clone Sources (Android 14):</b>
+- Device Source:
+```
+git clone -b 14.0 https://github.com/EvolutionX-spes/device_xiaomi_spes device/xiaomi/spes
+```
+- Kernel Source:
+```
+git clone -b NaughtySilver --depth=1 https://github.com/EvolutionX-spes/kernel_xiaomi_sm6225 kernel/xiaomi/sm6225
+```
+- Vendor Source:
+```
+git clone -b 14.0 https://github.com/EvolutionX-spes/vendor_xiaomi_spes vendor/xiaomi/spes
+```
+- Hardware Source:
+```
+git clone -b lineage-21 https://github.com/LineageOS/android_hardware_xiaomi hardware/xiaomi
+```
+
+## Telegram
+- [Update Channel](https://t.me/TanvirBuilds)
+- [Diacussion Group](https://t.me/TanvirBuildsSupport)
+
+## Device picture
+![Redmi Note 11](https://raw.githubusercontent.com/EvolutionX-spes/.github/master/assets/[3]-xiaomi-redmi-note-11-mockup.png)
+
+## Device specifications
+ Device       | Xiaomi Redmi Note 11
+ -----------: | :-------------------------------------------------- 
+CPU | Quad-Core 2.4 GHz Kryo 265 Gold & Quad-Core 1.9 GHz Kryo 265 Silver
+Chipset | Qualcomm SM6225 Snapdragon 680
+GPU | Adreno 610
+Memory | 4/6/8 GB RAM
+Shipped Android Version | 11.0
+Storage | 64/128 GB (UFS 2.2)
+Battery | Non-removable Li-Po 5000 mAh
+Display | 1080 x 2400 pixels, 6.43 inches (~409 ppi pixel density)
+Camera | Main 50 MP f/1.8, ultrawide lens, macro lens, depth lens, LED flash
